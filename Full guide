@@ -209,17 +209,4 @@ Conclusion
 
 You could further improve using content-specific features like Content Security Policy and Subresource Integrity, and Brotli compression to replace gzip.
 
-Online testing tools:
 
-    Mozilla Observatory
-    SSL Labs
-    Security Headers
-
-Useful links:
-
-    Subresource Integrity
-    Content Security Policy
-    Mozilla Security Guidelines
-    Certbot documentation
-
-If Let's Encrypt is useful to you, consider donating to Let's Encrypt or donating to the EFF.
